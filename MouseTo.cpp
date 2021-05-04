@@ -1,5 +1,5 @@
 // MouseTo - Library for Arduino Leonardo/Micro for moving the mouse pointer to absolute screen coordinates: http://github.com/per1234/MouseTo
-#include "MouseTo.h"
+#include "MouseTo.hpp"
 
 
 MouseToClass::MouseToClass() {
